@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/assign`?createDatabaseIfNotExist=true
+spring.datasource.username=root
+spring.datasource.password=Riya@2001
+spring.jpa.hibernate.ddl-auto=update
