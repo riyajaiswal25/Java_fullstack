@@ -471,3 +471,5 @@
 2024-02-28 20:27:15,764 [Worker-198: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-02-28 20:27:15,768 [Worker-198: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\riyaj\OneDrive\Desktop\Assignment\assignment-2-jpa-saveAll\src\test\resources
 2024-02-28 20:29:15,053 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 20:29:15,068 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 20:29:15,072 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\riyaj\OneDrive\Desktop\Assignment\assignment-2-jpa-saveAll\src\test\resources
